@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sherin Nishara S</h1>
 <h3 align="center">AI developer from Tamilnadu</h3>
-<p align="left"> <img src="https://github.com/user-attachments/assets/c9295fa5-593e-45ba-a9db-179687ce84a7" width="300" alt="sherinnishara" /> </p>
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 - 🔭 I’m currently studying B.Tech AI&DS at **SSMIET**
 
 - 🌱 I’m currently learning **DSA**
@@ -19,8 +21,6 @@
 
 - ⚡ Fun fact: **I'm an Astrophile**
 
-
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -58,12 +58,14 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/><img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/unity.png" alt="unity"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
 </p>
 
-![sherin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherinnishara&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="sherinnishara" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sherinnishara&show_icons=true&locale=en" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sherinnishara&show_icons=true&theme=synthwave&locale=en&layout=compact" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherinnishara&" alt="sherinnishara" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherinnishara&" alt="sherinnishara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherinnishara&show_icons=true&locale=en" alt="sherinnishara" /></p>
+<br clear="both">
 
-[![sherin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sherinnishara&bg_color=000000&color=ffffff&line=9e4c98&point=ff0088&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
