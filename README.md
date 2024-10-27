@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sherin Nishara S</h1>
 <h3 align="center">AI developer from Tamilnadu</h3>
-<p style="display: inline; position: relative; float: right; margin-left: 10px;">
-  <img src="https://github.com/user-attachments/assets/c98a1a1a-6c80-48d4-a004-ab0f29130f4d" width="300" />
-</p>
-- 🔭 I’m currently studying B.tech AI&DS at **SSMIET**
+<img src="https://github.com/user-attachments/assets/c98a1a1a-6c80-48d4-a004-ab0f29130f4d" width="300" style="float: right; margin-left: 10px;" />
+
+- 🔭 I’m currently studying B.Tech AI&DS at **SSMIET**
 
 - 🌱 I’m currently learning **DSA**
 
@@ -11,15 +10,15 @@
 
 - 🤝 I’m looking for help with **Internships**
 
-- 📝 I regularly write articles on [medium](https://medium.com/@sherinars2004/web-scraping-a-no-coding-approach-8e26772630e5)
+- 📝 I regularly write articles on [Medium](https://medium.com/@sherinars2004/web-scraping-a-no-coding-approach-8e26772630e5)
 
 - 💬 Ask me about **AI Tech**
 
-- 📫 How to reach me **sherinars2004@gmail.com**
+- 📫 How to reach me: **sherinars2004@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1P5oNr-Tb9A6F19XW6MlqxMbbsrXuV4WLGRLOKe5K6Fs/edit?usp=sharing)
 
-- ⚡ Fun fact **I'm an Astrophile**
+- ⚡ Fun fact: **I'm an Astrophile**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
