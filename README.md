@@ -64,8 +64,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sherinnishara&show_icons=true&theme=synthwave&locale=en&layout=compact" height="150" alt="languages graph"  />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherinnishara&" alt="sherinnishara" />
 </div>
-
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
