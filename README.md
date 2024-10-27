@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sherin Nishara Shiekhussain</h1>
 <h3 align="center">AI developer from Tamilnadu</h3>
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fimakshath%2Fimakshath&psig=AOvVaw1xIIrtB0d-iR4IwEzY61NQ&ust=1730123704592000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjUj5vbrokDFQAAAAAdAAAAABAJ" alt="sherinnishara" /> </p>
+<p align="left"> <img src="![image](https://github.com/user-attachments/assets/49b79c9f-076e-4380-9e28-7f7c9032cff2)
+" alt="sherinnishara" /> </p>
 
 - 🔭 I’m currently studying B.tech AI&DS at **SSMIET**
 
