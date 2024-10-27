@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sherin Nishara S</h1>
 <h3 align="center">AI developer from Tamilnadu</h3>
-
 <p align="right">
   <img src="https://github.com/user-attachments/assets/c98a1a1a-6c80-48d4-a004-ab0f29130f4d" width="300" />
 </p>
-
-
 - 🔭 I’m currently studying B.tech AI&DS at **SSMIET**
 
 - 🌱 I’m currently learning **DSA**
