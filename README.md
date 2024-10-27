@@ -58,6 +58,12 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/><img width="48" height="48" src="https://img.icons8.com/color/48/pycharm--v1.png" alt="pycharm--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/figma.png" alt="figma"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/><img width="50" height="50" src="https://img.icons8.com/ios-filled/50/unity.png" alt="unity"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/anaconda--v2.png" alt="anaconda--v2"/>
 </p>
 
+![sherin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherinnishara&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="sherinnishara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sherinnishara&" alt="sherinnishara" /></p>
+
+[![sherin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sherinnishara&bg_color=000000&color=ffffff&line=9e4c98&point=ff0088&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![sherin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sherinnishara&bg_color=000000&color=ffffff&line=9e4c98&point=ff0088&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
