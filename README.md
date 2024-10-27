@@ -2,7 +2,7 @@
 <h3 align="center">AI developer from Tamilnadu</h3>
 
 <p align="right">
-  <img src="https://github.com/user-attachments/assets/49b79c9f-076e-4380-9e28-7f7c9032cff2" alt="sherinnishara" width="300" />
+  <img src="https://github.com/user-attachments/assets/c98a1a1a-6c80-48d4-a004-ab0f29130f4d" width="300" />
 </p>
 
 
