@@ -1,24 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sherin Nishara S</h1>
 <h3 align="center">AI developer from Tamilnadu</h3>
-<img src="https://github.com/user-attachments/assets/c98a1a1a-6c80-48d4-a004-ab0f29130f4d" width="300" style="float: right; margin-left: 10px;" />
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="margin-right: 10px;">
+    - 🔭 I’m currently studying B.Tech AI&DS at **SSMIET**<br>
+    - 🌱 I’m currently learning **DSA**<br>
+    - 👯 Here is my [Portfolio](https://portfolio-60032739988.development.catalystserverless.in/app/index.html)<br>
+    - 🤝 I’m looking for help with **Internships**<br>
+    - 📝 I regularly write articles on [Medium](https://medium.com/@sherinars2004/web-scraping-a-no-coding-approach-8e26772630e5)<br>
+    - 💬 Ask me about **AI Tech**<br>
+    - 📫 How to reach me: **sherinars2004@gmail.com**<br>
+    - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1P5oNr-Tb9A6F19XW6MlqxMbbsrXuV4WLGRLOKe5K6Fs/edit?usp=sharing)<br>
+    - ⚡ Fun fact: **I'm an Astrophile**
+  </div>
+  <img src="https://github.com/user-attachments/assets/c98a1a1a-6c80-48d4-a004-ab0f29130f4d" width="300" />
+</div>
 
-- 🔭 I’m currently studying B.Tech AI&DS at **SSMIET**
-
-- 🌱 I’m currently learning **DSA**
-
-- 👯 Here is my [Portfolio](https://portfolio-60032739988.development.catalystserverless.in/app/index.html)
-
-- 🤝 I’m looking for help with **Internships**
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@sherinars2004/web-scraping-a-no-coding-approach-8e26772630e5)
-
-- 💬 Ask me about **AI Tech**
-
-- 📫 How to reach me: **sherinars2004@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1P5oNr-Tb9A6F19XW6MlqxMbbsrXuV4WLGRLOKe5K6Fs/edit?usp=sharing)
-
-- ⚡ Fun fact: **I'm an Astrophile**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
