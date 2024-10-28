@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sherin Nishara S</h1>
-<h3 align="center">AI developer from Tamilnadu</h3>
+<h3 align="center">AI developer from India</h3>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
