@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 Here is my [Portfolio](https://portfolio-60032739988.development.catalystserverless.in/app/index.html)
+- 👯 Here is my [Portfolio](https://sherinnishara.netlify.app/)
 
 - 🤝 I’m looking for help with **Internships**
 
