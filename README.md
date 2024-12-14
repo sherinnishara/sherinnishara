@@ -28,8 +28,3 @@
 
 ###
 
-###
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/sherinars2004?theme=dark&font=Actor&ext=heatmap)
-
-###
